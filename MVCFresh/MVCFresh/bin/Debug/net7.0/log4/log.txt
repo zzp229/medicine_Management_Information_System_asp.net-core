@@ -1,0 +1,146 @@
+2023-10-08 15:56:05,327 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 15:56:05,392 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 15:56:05,397 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 15:56:05,402 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 15:56:05,405 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 15:56:06,592 [11] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 15:56:10,991 [15] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 18:16:27,664 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 18:16:27,740 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 18:16:27,748 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 18:16:27,752 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 18:16:27,756 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 18:16:28,665 [16] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 18:31:52,473 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 18:31:52,521 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 18:31:52,526 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 18:31:52,530 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 18:31:52,531 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 18:31:53,514 [15] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 18:33:37,567 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 18:33:37,615 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 18:33:37,620 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 18:33:37,623 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 18:33:37,625 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 18:33:38,582 [4] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:25:37,370 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:25:37,439 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:25:37,444 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:25:37,448 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:25:37,450 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:25:38,011 [9] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:31:29,190 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:31:29,246 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:31:29,252 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:31:29,255 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:31:29,258 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:31:29,733 [9] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:33:58,676 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:33:58,731 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:33:58,736 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:33:58,739 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:33:58,741 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:34:00,156 [9] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:35:24,951 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:35:24,998 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:35:25,002 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:35:25,005 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:35:25,007 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:35:27,095 [4] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:39:00,013 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:39:00,088 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:39:00,093 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:39:00,097 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:39:00,099 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:39:01,066 [13] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:41:21,151 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:41:21,200 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:41:21,205 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:41:21,207 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:41:21,209 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:41:22,636 [4] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:42:54,587 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:42:54,646 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:42:54,652 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:42:54,655 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:42:54,657 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:42:55,655 [6] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 19:48:20,205 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 19:48:20,273 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 19:48:20,280 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 19:48:20,285 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 19:48:20,288 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 19:48:21,062 [9] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 20:10:32,770 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 20:10:32,885 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 20:10:32,891 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 20:10:32,896 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 20:10:32,898 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 20:10:34,034 [6] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 21:31:26,408 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:31:26,490 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:31:26,495 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:31:26,499 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:31:26,502 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:31:27,445 [9] INFO  MVCFresh.Controllers.HomeController - 这里是首页
+2023-10-08 21:31:58,218 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:31:58,694 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:31:58,701 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:31:58,705 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:31:58,709 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:31:59,238 [10] INFO  MVCFresh.Controllers.HomeController - 这里是首页22222
+2023-10-08 21:35:10,218 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:35:10,272 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:35:10,278 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:35:10,282 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:35:10,284 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:35:11,530 [15] INFO  MVCFresh.Controllers.HomeController - 这里是首页22222
+2023-10-08 21:36:13,421 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:36:13,500 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:36:13,507 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:36:13,512 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:36:13,516 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:36:14,206 [10] INFO  MVCFresh.Controllers.HomeController - 这里是首页22222
+2023-10-08 21:38:13,717 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:38:13,794 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:38:13,800 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:38:13,803 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:38:13,805 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:38:14,693 [6] INFO  MVCFresh.Controllers.HomeController - 这里是首页22222
+2023-10-08 21:38:44,598 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:38:44,676 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:38:44,681 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:38:44,684 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:38:44,686 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:38:45,207 [10] INFO  MVCFresh.Controllers.HomeController - 这里是首页22222
+2023-10-08 21:40:19,507 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:40:19,587 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:40:19,593 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:40:19,597 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:40:19,599 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:40:20,947 [6] INFO  MVCFresh.Controllers.HomeController - aaaaaaaa
+2023-10-08 21:42:52,268 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:42:52,392 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:42:52,400 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:42:52,404 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:42:52,408 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:42:53,870 [6] INFO  MVCFresh.Controllers.HomeController - aaaaaaaa
+2023-10-08 21:48:49,709 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:48:49,789 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:48:49,798 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:48:49,804 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:48:49,807 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:48:50,877 [6] INFO  MVCFresh.Controllers.HomeController - aaaaaaaa
+2023-10-08 21:49:03,112 [4] INFO  MVCFresh.Controllers.HomeController - aaaaaaaa
+2023-10-08 21:56:15,627 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 21:56:15,695 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 21:56:15,700 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 21:56:15,703 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 21:56:15,706 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 21:56:17,184 [4] INFO  MVCFresh.Controllers.HomeController - aaaaaaaa
+2023-10-08 22:45:26,692 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7017
+2023-10-08 22:45:26,790 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5074
+2023-10-08 22:45:26,796 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-08 22:45:26,800 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-08 22:45:26,802 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\desktop\tmp\MVCFresh\MVCFresh
+2023-10-08 22:45:27,856 [6] INFO  MVCFresh.Controllers.HomeController - aaaaaaaa
