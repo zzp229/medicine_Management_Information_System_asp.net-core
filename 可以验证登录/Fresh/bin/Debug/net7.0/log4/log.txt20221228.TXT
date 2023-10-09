@@ -1,0 +1,118 @@
+2022-12-28 20:07:04,840 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 20:07:04,903 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 20:07:04,907 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 20:07:04,910 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 20:07:04,911 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 20:41:23,346 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 20:41:23,460 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 20:41:23,471 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 20:41:23,477 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 20:41:23,486 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 20:44:02,459 [6] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:44:19,081 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 20:44:19,197 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 20:44:19,203 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 20:44:19,207 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 20:44:19,209 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 20:44:35,064 [13] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:45:13,836 [14] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:47:25,548 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 20:47:25,683 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 20:47:25,690 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 20:47:25,696 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 20:47:25,700 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 20:47:27,056 [9] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:48:28,970 [4] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:48:43,730 [14] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:49:41,740 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 20:49:41,849 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 20:49:41,856 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 20:49:41,860 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 20:49:41,863 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 20:49:43,368 [15] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:50:28,594 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 20:50:28,693 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 20:50:28,702 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 20:50:28,708 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 20:50:28,714 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 20:50:29,869 [14] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:51:49,999 [40] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:52:01,414 [41] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:58:17,533 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 20:58:17,652 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 20:58:17,659 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 20:58:17,665 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 20:58:17,669 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 20:58:19,129 [14] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:58:39,538 [14] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 20:58:51,014 [15] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:00:08,665 [9] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:08:24,239 [33] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:08:52,255 [35] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:19:11,653 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 21:19:11,751 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 21:19:11,756 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 21:19:11,760 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 21:19:11,763 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 21:19:13,493 [13] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:20:36,457 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:25:02,555 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 21:25:02,651 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 21:25:02,659 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 21:25:02,665 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 21:25:02,669 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 21:25:04,808 [13] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2022-12-28 21:25:04,819 [13] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:25:04,947 [9] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2022-12-28 21:30:01,542 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 21:30:01,632 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 21:30:01,638 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 21:30:01,641 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 21:30:01,644 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 21:30:03,676 [13] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2022-12-28 21:30:03,687 [13] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2022-12-28 21:30:03,693 [13] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:30:03,700 [13] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2022-12-28 21:30:03,708 [13] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2022-12-28 21:30:03,869 [8] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2022-12-28 21:30:03,875 [8] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2022-12-28 21:38:41,504 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-28 21:38:41,609 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-28 21:38:41,614 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-28 21:38:41,619 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-28 21:38:41,622 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-28 21:38:43,457 [14] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2022-12-28 21:38:43,470 [14] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2022-12-28 21:38:43,475 [14] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:38:43,481 [14] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2022-12-28 21:38:43,487 [14] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2022-12-28 21:38:43,619 [13] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2022-12-28 21:38:43,626 [13] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2022-12-28 21:40:01,151 [17] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2022-12-28 21:40:01,159 [17] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2022-12-28 21:40:01,163 [17] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:40:01,167 [17] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2022-12-28 21:40:01,170 [17] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2022-12-28 21:40:01,199 [17] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2022-12-28 21:40:01,203 [17] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2022-12-28 21:40:09,000 [6] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2022-12-28 21:40:09,004 [6] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2022-12-28 21:40:09,008 [6] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:40:09,011 [6] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2022-12-28 21:40:09,014 [6] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2022-12-28 21:40:09,022 [4] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2022-12-28 21:40:09,026 [4] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2022-12-28 21:40:18,918 [4] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2022-12-28 21:40:18,926 [4] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2022-12-28 21:40:18,931 [4] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:40:18,936 [4] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2022-12-28 21:40:18,946 [4] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2022-12-28 21:40:18,963 [6] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2022-12-28 21:40:18,968 [6] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2022-12-28 21:41:14,105 [21] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2022-12-28 21:41:14,109 [21] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2022-12-28 21:41:14,113 [21] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-28 21:41:14,117 [21] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2022-12-28 21:41:14,121 [21] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2022-12-28 21:41:14,133 [23] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2022-12-28 21:41:14,137 [23] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted

@@ -1,0 +1,36 @@
+2023-10-04 19:38:13,121 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2023-10-04 19:38:13,205 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2023-10-04 19:38:13,210 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-04 19:38:13,214 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-04 19:38:13,217 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\C#\C#视频\全栈\04期---【高端全栈班第四期(完结)】\20221228FullStack04Course021O2O-3\Fresh\Fresh
+2023-10-04 19:38:27,273 [6] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2023-10-04 19:38:27,280 [6] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2023-10-04 19:38:27,285 [6] INFO  Fresh.Controllers.HomeController - 这里是首页
+2023-10-04 19:38:27,289 [6] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2023-10-04 19:38:27,292 [6] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2023-10-04 19:38:27,320 [4] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2023-10-04 19:38:27,327 [4] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2023-10-04 20:44:08,201 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2023-10-04 20:44:08,292 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2023-10-04 20:44:08,297 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-04 20:44:08,301 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-04 20:44:08,303 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\C#\C#视频\全栈\04期---【高端全栈班第四期(完结)】\20221228FullStack04Course021O2O-3\Fresh\Fresh
+2023-10-04 20:44:14,845 [10] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2023-10-04 20:44:14,855 [10] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2023-10-04 20:44:14,859 [10] INFO  Fresh.Controllers.HomeController - 这里是首页
+2023-10-04 20:44:14,862 [10] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2023-10-04 20:44:14,864 [10] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2023-10-04 20:44:14,891 [4] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2023-10-04 20:44:14,898 [4] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted
+2023-10-04 20:48:40,186 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2023-10-04 20:48:40,293 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2023-10-04 20:48:40,300 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-10-04 20:48:40,305 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-10-04 20:48:40,309 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\C#\C#视频\全栈\04期---【高端全栈班第四期(完结)】\20221228FullStack04Course021O2O-3\Fresh\Fresh
+2023-10-04 20:48:44,874 [10] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuting
+2023-10-04 20:48:44,882 [10] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuting
+2023-10-04 20:48:44,886 [10] INFO  Fresh.Controllers.HomeController - 这里是首页
+2023-10-04 20:48:44,890 [10] INFO  Fresh.Filter.CustomActionFilter - OnActionExecuted
+2023-10-04 20:48:44,894 [10] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuting
+2023-10-04 20:48:45,472 [10] INFO  Fresh.Filter.CustomResultFilter - OnResultExecuted
+2023-10-04 20:48:45,478 [10] INFO  Fresh.Filter.CustomResourceFilter - OnResourceExecuted

@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Interface\\Interface.csproj": {}
+  },
+  "projects": {
+    "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\13556\\.nuget\\packages\\",
+        "outputPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\c\\app\\Visual Studio\\tool\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\13556\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Interface\\Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Interface\\Interface.csproj",
+        "projectName": "Interface",
+        "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Interface\\Interface.csproj",
+        "packagesPath": "C:\\Users\\13556\\.nuget\\packages\\",
+        "outputPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\c\\app\\Visual Studio\\tool\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\13556\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\Model.csproj": {
+                "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\13556\\.nuget\\packages\\",
+        "outputPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\c\\app\\Visual Studio\\tool\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\13556\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Common\\Common.csproj": {
+                "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.3.41, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

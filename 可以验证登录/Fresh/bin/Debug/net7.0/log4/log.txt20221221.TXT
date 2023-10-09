@@ -1,0 +1,148 @@
+2022-12-21 20:09:48,782 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 20:09:48,884 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 20:09:48,890 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 20:09:48,896 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 20:09:48,901 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-21 20:09:50,012 [6] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:11:39,197 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 20:11:39,252 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 20:11:39,256 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 20:11:39,259 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 20:11:39,260 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-21 20:11:39,796 [7] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,616 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,638 [21] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,646 [21] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,651 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,651 [21] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,653 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,655 [28] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,655 [20] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,656 [29] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,658 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,658 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,660 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,661 [34] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:15,663 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,688 [33] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,706 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,718 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,733 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,741 [33] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,749 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,756 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,764 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,774 [34] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,786 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,794 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,803 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,812 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,820 [33] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,831 [34] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,846 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,853 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,915 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,923 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,932 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,941 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,948 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,957 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,966 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,974 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,983 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:16,991 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,000 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,008 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,016 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,026 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,034 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,041 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,050 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,062 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,069 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,075 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,087 [32] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,097 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,097 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,100 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,107 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:17,109 [29] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:19,066 [22] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:19,071 [25] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:16:19,072 [24] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:19:52,940 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 20:19:52,999 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 20:19:53,003 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 20:19:53,006 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 20:19:53,008 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-21 20:19:53,303 [6] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:20:02,283 [19] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:30:46,554 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 20:30:46,609 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 20:30:46,614 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 20:30:46,617 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 20:30:46,619 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-21 20:30:47,243 [9] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+Fresh.Controllers.HomeController.Index (Fresh)
+Fresh.Controllers.HomeController.Index (Fresh)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2022-12-21 20:31:49,579 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.Routing.Matching.AmbiguousMatchException: The request matched multiple endpoints. Matches: 
+
+Fresh.Controllers.HomeController.Index (Fresh)
+Fresh.Controllers.HomeController.Index (Fresh)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ReportAmbiguity(CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DefaultEndpointSelector.ProcessFinalCandidates(HttpContext httpContext, CandidateState[] candidateState)
+   at Microsoft.AspNetCore.Routing.Matching.DfaMatcher.MatchAsync(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2022-12-21 20:32:51,278 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 20:32:51,335 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 20:32:51,340 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 20:32:51,343 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 20:32:51,344 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-21 20:32:51,798 [14] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:34:35,101 [3] INFO  Fresh.Controllers.HomeController - 这里是首页
+2022-12-21 20:35:16,148 [27] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2022-12-21 20:36:08,072 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 20:36:08,184 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 20:36:08,191 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 20:36:08,195 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 20:36:08,198 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-21 20:36:09,298 [6] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.<>c__DisplayClass0_0.<<HandleAsync>g__Handle|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2022-12-21 20:44:56,865 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 20:44:56,918 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 20:44:56,921 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 20:44:56,924 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 20:44:56,925 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
+2022-12-21 21:29:49,758 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7285
+2022-12-21 21:29:49,872 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5106
+2022-12-21 21:29:49,880 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-12-21 21:29:49,884 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-12-21 21:29:49,887 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: E:\Eg\Project\全栈VIP\课件\上课\O2O生鲜项目\Fresh\Fresh
