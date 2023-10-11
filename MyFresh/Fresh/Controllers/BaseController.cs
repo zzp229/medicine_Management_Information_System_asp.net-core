@@ -11,5 +11,8 @@ namespace Fresh.Controllers
     public class BaseController : Controller
     {
         public long userId;
+
+        //这里控制权限，设置哪个用户该使用什么
+        public bool IsShow = false;
     }
 }

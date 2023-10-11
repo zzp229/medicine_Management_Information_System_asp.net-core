@@ -1,1391 +1,1391 @@
 {
   "Files": [
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Fresh.bundle.scp.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Fresh.bundle.scp.css",
       "PackagePath": "staticwebassets\\Fresh.bundle.scp.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\css\\fileinput.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\css\\fileinput.min.css",
       "PackagePath": "staticwebassets\\css\\fileinput.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\css\\site.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\favicon.ico",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\js\\echarts.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\js\\echarts.min.js",
       "PackagePath": "staticwebassets\\js\\echarts.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\js\\fileinput.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\js\\fileinput.min.js",
       "PackagePath": "staticwebassets\\js\\fileinput.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\js\\fileinput_locale_zh.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\js\\fileinput_locale_zh.js",
       "PackagePath": "staticwebassets\\js\\fileinput_locale_zh.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\js\\jqpaginator.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\js\\jqpaginator.min.js",
       "PackagePath": "staticwebassets\\js\\jqpaginator.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\js\\jquery-1.7.2.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\js\\jquery-1.7.2.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.7.2.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\js\\mypage.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\js\\mypage.js",
       "PackagePath": "staticwebassets\\js\\mypage.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\js\\site.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\all.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\all.css",
       "PackagePath": "staticwebassets\\static\\css\\all.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\all.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\all.min.css",
       "PackagePath": "staticwebassets\\static\\css\\all.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\backend-plugin.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\backend-plugin.min.css",
       "PackagePath": "staticwebassets\\static\\css\\backend-plugin.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\backend.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\backend.css",
       "PackagePath": "staticwebassets\\static\\css\\backend.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\brush.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\brush.css",
       "PackagePath": "staticwebassets\\static\\css\\brush.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\css.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\css.css",
       "PackagePath": "staticwebassets\\static\\css\\css.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\css2.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\css2.css",
       "PackagePath": "staticwebassets\\static\\css\\css2.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\css21.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\css21.css",
       "PackagePath": "staticwebassets\\static\\css\\css21.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\cssbutton.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\cssbutton.css",
       "PackagePath": "staticwebassets\\static\\css\\cssbutton.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\dripicons.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\dripicons.css",
       "PackagePath": "staticwebassets\\static\\css\\dripicons.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\h5bg.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\h5bg.css",
       "PackagePath": "staticwebassets\\static\\css\\h5bg.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\line-awesome.min.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\line-awesome.min.css",
       "PackagePath": "staticwebassets\\static\\css\\line-awesome.min.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\main.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\main.css",
       "PackagePath": "staticwebassets\\static\\css\\main.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\main1.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\main1.css",
       "PackagePath": "staticwebassets\\static\\css\\main1.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\main2.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\main2.css",
       "PackagePath": "staticwebassets\\static\\css\\main2.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\main3.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\main3.css",
       "PackagePath": "staticwebassets\\static\\css\\main3.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\mapbox-gl.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\mapbox-gl.css",
       "PackagePath": "staticwebassets\\static\\css\\mapbox-gl.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\photo.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\photo.css",
       "PackagePath": "staticwebassets\\static\\css\\photo.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\pre.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\pre.css",
       "PackagePath": "staticwebassets\\static\\css\\pre.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\remixicon.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\remixicon.css",
       "PackagePath": "staticwebassets\\static\\css\\remixicon.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\style.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\style.css",
       "PackagePath": "staticwebassets\\static\\css\\style.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\svgbg.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\svgbg.css",
       "PackagePath": "staticwebassets\\static\\css\\svgbg.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\css\\theme.css",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\css\\theme.css",
       "PackagePath": "staticwebassets\\static\\css\\theme.css"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fBBc4.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fBBc4.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmSU5fBBc4.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmWUlfBBc4.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu4WxKOzY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOmCnqEu92Fr1Mu4WxKOzY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu4mxK.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOmCnqEu92Fr1Mu4mxK.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu5mxKOzY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOmCnqEu92Fr1Mu5mxKOzY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu72xKOzY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu72xKOzY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOmCnqEu92Fr1Mu72xKOzY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu7GxKOzY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOmCnqEu92Fr1Mu7GxKOzY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu7WxKOzY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOmCnqEu92Fr1Mu7WxKOzY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\KFOmCnqEu92Fr1Mu7mxKOzY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\KFOmCnqEu92Fr1Mu7mxKOzY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm_00.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm_00.woff2",
       "PackagePath": "staticwebassets\\static\\font\\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysd0mm_00.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmm.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmm.woff2",
       "PackagePath": "staticwebassets\\static\\font\\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmm.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\dripicons.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\dripicons.eot",
       "PackagePath": "staticwebassets\\static\\font\\dripicons.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\dripicons.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\dripicons.ttf",
       "PackagePath": "staticwebassets\\static\\font\\dripicons.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\dripicons.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\dripicons.woff",
       "PackagePath": "staticwebassets\\static\\font\\dripicons.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-400.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-400.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-400.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-400.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.eot",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-4001.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.ttf",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-4001.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.woff",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-4001.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-brands-4001.woff2",
       "PackagePath": "staticwebassets\\static\\font\\fa-brands-4001.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-400.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-400.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-400.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-400.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.eot",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-4001.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.ttf",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-4001.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.woff",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-4001.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-regular-4001.woff2",
       "PackagePath": "staticwebassets\\static\\font\\fa-regular-4001.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-900.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-900.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-900.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-900.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.eot",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-9001.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.ttf",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-9001.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.woff",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-9001.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\fa-solid-9001.woff2",
       "PackagePath": "staticwebassets\\static\\font\\fa-solid-9001.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\static\\font\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\static\\font\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\static\\font\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\static\\font\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\iconfont.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\iconfont.ttf",
       "PackagePath": "staticwebassets\\static\\font\\iconfont.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\iconfont.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\iconfont.woff",
       "PackagePath": "staticwebassets\\static\\font\\iconfont.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\iconfont.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\iconfont.woff2",
       "PackagePath": "staticwebassets\\static\\font\\iconfont.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-brands-400.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-brands-400.eot",
       "PackagePath": "staticwebassets\\static\\font\\la-brands-400.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-brands-400.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-brands-400.ttf",
       "PackagePath": "staticwebassets\\static\\font\\la-brands-400.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-brands-400.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-brands-400.woff",
       "PackagePath": "staticwebassets\\static\\font\\la-brands-400.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-brands-400.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-brands-400.woff2",
       "PackagePath": "staticwebassets\\static\\font\\la-brands-400.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-regular-400.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-regular-400.eot",
       "PackagePath": "staticwebassets\\static\\font\\la-regular-400.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-regular-400.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-regular-400.ttf",
       "PackagePath": "staticwebassets\\static\\font\\la-regular-400.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-regular-400.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-regular-400.woff",
       "PackagePath": "staticwebassets\\static\\font\\la-regular-400.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-regular-400.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-regular-400.woff2",
       "PackagePath": "staticwebassets\\static\\font\\la-regular-400.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-solid-900.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-solid-900.eot",
       "PackagePath": "staticwebassets\\static\\font\\la-solid-900.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-solid-900.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-solid-900.ttf",
       "PackagePath": "staticwebassets\\static\\font\\la-solid-900.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-solid-900.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-solid-900.woff",
       "PackagePath": "staticwebassets\\static\\font\\la-solid-900.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\la-solid-900.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\la-solid-900.woff2",
       "PackagePath": "staticwebassets\\static\\font\\la-solid-900.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiEyp8kv8JHgFVrJJbecmNE.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiEyp8kv8JHgFVrJJbecmNE.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiEyp8kv8JHgFVrJJbecmNE.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiEyp8kv8JHgFVrJJfecg.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiEyp8kv8JHgFVrJJfecg.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiEyp8kv8JHgFVrJJfecg.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiEyp8kv8JHgFVrJJnecmNE.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiEyp8kv8JHgFVrJJnecmNE.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiEyp8kv8JHgFVrJJnecmNE.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrJJLucHtA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrJJLucHtA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiGyp8kv8JHgFVrJJLucHtA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrJJLufntAKPY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrJJLufntAKPY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiGyp8kv8JHgFVrJJLufntAKPY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrLPTucHtA.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrLPTucHtA.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiGyp8kv8JHgFVrLPTucHtA.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2",
       "PackagePath": "staticwebassets\\static\\font\\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\remixicon.eot",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\remixicon.eot",
       "PackagePath": "staticwebassets\\static\\font\\remixicon.eot"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\remixicon.ttf",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\remixicon.ttf",
       "PackagePath": "staticwebassets\\static\\font\\remixicon.ttf"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\remixicon.woff",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\remixicon.woff",
       "PackagePath": "staticwebassets\\static\\font\\remixicon.woff"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\font\\remixicon.woff2",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\font\\remixicon.woff2",
       "PackagePath": "staticwebassets\\static\\font\\remixicon.woff2"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\Starry.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\Starry.jpg",
       "PackagePath": "staticwebassets\\static\\image\\Starry.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\activity_bg.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\activity_bg.jpg",
       "PackagePath": "staticwebassets\\static\\image\\activity_bg.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\animating-ele-1.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\animating-ele-1.png",
       "PackagePath": "staticwebassets\\static\\image\\animating-ele-1.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\banner-bg4.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\banner-bg4.jpg",
       "PackagePath": "staticwebassets\\static\\image\\banner-bg4.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\bg-2.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\bg-2.jpg",
       "PackagePath": "staticwebassets\\static\\image\\bg-2.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\bg-mob.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\bg-mob.png",
       "PackagePath": "staticwebassets\\static\\image\\bg-mob.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\bg-page-section.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\bg-page-section.png",
       "PackagePath": "staticwebassets\\static\\image\\bg-page-section.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\bg_menutop.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\bg_menutop.png",
       "PackagePath": "staticwebassets\\static\\image\\bg_menutop.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\bottom-frame.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\bottom-frame.png",
       "PackagePath": "staticwebassets\\static\\image\\bottom-frame.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\counter-frame.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\counter-frame.png",
       "PackagePath": "staticwebassets\\static\\image\\counter-frame.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\cross2.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\cross2.png",
       "PackagePath": "staticwebassets\\static\\image\\cross2.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\css.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\css.gif",
       "PackagePath": "staticwebassets\\static\\image\\css.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\dark-loader.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\dark-loader.gif",
       "PackagePath": "staticwebassets\\static\\image\\dark-loader.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\default.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\default.gif",
       "PackagePath": "staticwebassets\\static\\image\\default.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\folder-closed.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\folder-closed.png",
       "PackagePath": "staticwebassets\\static\\image\\folder-closed.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\folder.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\folder.png",
       "PackagePath": "staticwebassets\\static\\image\\folder.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\footer-background.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\footer-background.png",
       "PackagePath": "staticwebassets\\static\\image\\footer-background.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\hero-1.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\hero-1.jpg",
       "PackagePath": "staticwebassets\\static\\image\\hero-1.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\html.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\html.png",
       "PackagePath": "staticwebassets\\static\\image\\html.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\img.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\img.gif",
       "PackagePath": "staticwebassets\\static\\image\\img.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\js.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\js.gif",
       "PackagePath": "staticwebassets\\static\\image\\js.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\json.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\json.png",
       "PackagePath": "staticwebassets\\static\\image\\json.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\less.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\less.png",
       "PackagePath": "staticwebassets\\static\\image\\less.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\loader.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\loader.gif",
       "PackagePath": "staticwebassets\\static\\image\\loader.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\mon-spr.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\mon-spr.png",
       "PackagePath": "staticwebassets\\static\\image\\mon-spr.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\mp3.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\mp3.png",
       "PackagePath": "staticwebassets\\static\\image\\mp3.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\mp4.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\mp4.png",
       "PackagePath": "staticwebassets\\static\\image\\mp4.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\overlay_live_preview.svg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\overlay_live_preview.svg",
       "PackagePath": "staticwebassets\\static\\image\\overlay_live_preview.svg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\paybg.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\paybg.jpg",
       "PackagePath": "staticwebassets\\static\\image\\paybg.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\payft.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\payft.jpg",
       "PackagePath": "staticwebassets\\static\\image\\payft.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\payitem.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\payitem.png",
       "PackagePath": "staticwebassets\\static\\image\\payitem.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\payvipgo.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\payvipgo.png",
       "PackagePath": "staticwebassets\\static\\image\\payvipgo.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\php.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\php.png",
       "PackagePath": "staticwebassets\\static\\image\\php.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\psd.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\psd.png",
       "PackagePath": "staticwebassets\\static\\image\\psd.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\rar.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\rar.png",
       "PackagePath": "staticwebassets\\static\\image\\rar.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\service.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\service.png",
       "PackagePath": "staticwebassets\\static\\image\\service.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\sort_asc.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\sort_asc.png",
       "PackagePath": "staticwebassets\\static\\image\\sort_asc.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\sort_asc_disabled.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\sort_asc_disabled.png",
       "PackagePath": "staticwebassets\\static\\image\\sort_asc_disabled.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\sort_both.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\sort_both.png",
       "PackagePath": "staticwebassets\\static\\image\\sort_both.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\sort_desc.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\sort_desc.png",
       "PackagePath": "staticwebassets\\static\\image\\sort_desc.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\sort_desc_disabled.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\sort_desc_disabled.png",
       "PackagePath": "staticwebassets\\static\\image\\sort_desc_disabled.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\sql.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\sql.gif",
       "PackagePath": "staticwebassets\\static\\image\\sql.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\status_bg.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\status_bg.png",
       "PackagePath": "staticwebassets\\static\\image\\status_bg.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\status_bg2.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\status_bg2.png",
       "PackagePath": "staticwebassets\\static\\image\\status_bg2.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\treeview-default-line.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\treeview-default-line.gif",
       "PackagePath": "staticwebassets\\static\\image\\treeview-default-line.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\treeview-default.gif",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\treeview-default.gif",
       "PackagePath": "staticwebassets\\static\\image\\treeview-default.gif"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\txt.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\txt.png",
       "PackagePath": "staticwebassets\\static\\image\\txt.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\user.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\user.png",
       "PackagePath": "staticwebassets\\static\\image\\user.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\image\\vippricebg.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\image\\vippricebg.png",
       "PackagePath": "staticwebassets\\static\\image\\vippricebg.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\01.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\01.js",
       "PackagePath": "staticwebassets\\static\\js\\01.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\02.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\02.js",
       "PackagePath": "staticwebassets\\static\\js\\02.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\5.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\5.js",
       "PackagePath": "staticwebassets\\static\\js\\5.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\app.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\app.js",
       "PackagePath": "staticwebassets\\static\\js\\app.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\backend-bundle.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\backend-bundle.min.js",
       "PackagePath": "staticwebassets\\static\\js\\backend-bundle.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\bootstrap.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\static\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\brush.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\brush.js",
       "PackagePath": "staticwebassets\\static\\js\\brush.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\catebg.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\catebg.js",
       "PackagePath": "staticwebassets\\static\\js\\catebg.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\chart-custom.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\chart-custom.js",
       "PackagePath": "staticwebassets\\static\\js\\chart-custom.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\chroma.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\chroma.min.js",
       "PackagePath": "staticwebassets\\static\\js\\chroma.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\com.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\com.js",
       "PackagePath": "staticwebassets\\static\\js\\com.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\console-ban.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\console-ban.min.js",
       "PackagePath": "staticwebassets\\static\\js\\console-ban.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\countdown.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\countdown.js",
       "PackagePath": "staticwebassets\\static\\js\\countdown.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\cssbeautify.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\cssbeautify.js",
       "PackagePath": "staticwebassets\\static\\js\\cssbeautify.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\cssbutton.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\cssbutton.js",
       "PackagePath": "staticwebassets\\static\\js\\cssbutton.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\customizer.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\customizer.js",
       "PackagePath": "staticwebassets\\static\\js\\customizer.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\flex-tree.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\flex-tree.min.js",
       "PackagePath": "staticwebassets\\static\\js\\flex-tree.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\format.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\format.js",
       "PackagePath": "staticwebassets\\static\\js\\format.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\h5bg.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\h5bg.js",
       "PackagePath": "staticwebassets\\static\\js\\h5bg.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\imagesloaded.pkgd.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\imagesloaded.pkgd.min.js",
       "PackagePath": "staticwebassets\\static\\js\\imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\jquery.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\jquery.js",
       "PackagePath": "staticwebassets\\static\\js\\jquery.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\main.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\main.js",
       "PackagePath": "staticwebassets\\static\\js\\main.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\main1.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\main1.js",
       "PackagePath": "staticwebassets\\static\\js\\main1.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\main2.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\main2.js",
       "PackagePath": "staticwebassets\\static\\js\\main2.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\main3.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\main3.js",
       "PackagePath": "staticwebassets\\static\\js\\main3.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\mapbox-gl.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\mapbox-gl.js",
       "PackagePath": "staticwebassets\\static\\js\\mapbox-gl.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\mapbox.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\mapbox.js",
       "PackagePath": "staticwebassets\\static\\js\\mapbox.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\masonry.pkgd.min.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\masonry.pkgd.min.js",
       "PackagePath": "staticwebassets\\static\\js\\masonry.pkgd.min.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\photo.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\photo.js",
       "PackagePath": "staticwebassets\\static\\js\\photo.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\previewjs.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\previewjs.js",
       "PackagePath": "staticwebassets\\static\\js\\previewjs.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\slider.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\slider.js",
       "PackagePath": "staticwebassets\\static\\js\\slider.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\svg.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\svg.js",
       "PackagePath": "staticwebassets\\static\\js\\svg.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\svgbg.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\svgbg.js",
       "PackagePath": "staticwebassets\\static\\js\\svgbg.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\sweetalert.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\sweetalert.js",
       "PackagePath": "staticwebassets\\static\\js\\sweetalert.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\table-treeview.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\table-treeview.js",
       "PackagePath": "staticwebassets\\static\\js\\table-treeview.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\js\\tree.js",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\js\\tree.js",
       "PackagePath": "staticwebassets\\static\\js\\tree.js"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\09.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\09.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\09.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\1.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\1.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\1.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\10.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\10.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\10.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\10.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\10.png",
       "PackagePath": "staticwebassets\\static\\picture\\10.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\11.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\11.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\11.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\12.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\12.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\12.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\13.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\13.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\13.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\14.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\14.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\14.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\2.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\2.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\2.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\3.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\3.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\3.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\4.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\4.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\4.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\404-dark.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\404-dark.png",
       "PackagePath": "staticwebassets\\static\\picture\\404-dark.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\404.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\404.png",
       "PackagePath": "staticwebassets\\static\\picture\\404.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\5.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\5.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\5.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\500-dark.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\500-dark.png",
       "PackagePath": "staticwebassets\\static\\picture\\500-dark.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\500.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\500.png",
       "PackagePath": "staticwebassets\\static\\picture\\500.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\6.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\6.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\6.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\7.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\7.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\7.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\card.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\card.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\card.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\flag-01.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\flag-01.png",
       "PackagePath": "staticwebassets\\static\\picture\\flag-01.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\flag-02.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\flag-02.png",
       "PackagePath": "staticwebassets\\static\\picture\\flag-02.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\flag-03.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\flag-03.png",
       "PackagePath": "staticwebassets\\static\\picture\\flag-03.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\flag-04.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\flag-04.png",
       "PackagePath": "staticwebassets\\static\\picture\\flag-04.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\flag-05.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\flag-05.png",
       "PackagePath": "staticwebassets\\static\\picture\\flag-05.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\flag-06.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\flag-06.png",
       "PackagePath": "staticwebassets\\static\\picture\\flag-06.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\icon-mouse.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\icon-mouse.png",
       "PackagePath": "staticwebassets\\static\\picture\\icon-mouse.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\img-1.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\img-1.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\img-1.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\logo.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\logo.png",
       "PackagePath": "staticwebassets\\static\\picture\\logo.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\maintenance.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\maintenance.png",
       "PackagePath": "staticwebassets\\static\\picture\\maintenance.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\pdf.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\pdf.png",
       "PackagePath": "staticwebassets\\static\\picture\\pdf.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\placeholder.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\placeholder.png",
       "PackagePath": "staticwebassets\\static\\picture\\placeholder.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\prod-1.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\prod-1.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\prod-1.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\prod-2.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\prod-2.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\prod-2.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\prod-3.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\prod-3.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\prod-3.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\prod-4.jpg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\prod-4.jpg",
       "PackagePath": "staticwebassets\\static\\picture\\prod-4.jpg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\side-bkg.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\side-bkg.png",
       "PackagePath": "staticwebassets\\static\\picture\\side-bkg.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\try-me-arrow.svg",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\try-me-arrow.svg",
       "PackagePath": "staticwebassets\\static\\picture\\try-me-arrow.svg"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\white-logo-2.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\white-logo-2.png",
       "PackagePath": "staticwebassets\\static\\picture\\white-logo-2.png"
     },
     {
-      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\wwwroot\\static\\picture\\white-logo.png",
+      "Id": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\wwwroot\\static\\picture\\white-logo.png",
       "PackagePath": "staticwebassets\\static\\picture\\white-logo.png"
     },
     {

@@ -13,8 +13,20 @@ namespace Fresh.Controllers
         public AgencyController(IAgencyService agency) => _agency = agency;
         public IActionResult Index()
         {
+            //通过这个判断是否显示某个按钮
+            //bool shouldShowButton = false;// Logic to determine whether the button should be visible based on your backend data
+
+            ViewBag.ShouldShowButton = IsShow;
+
             return View();
         }
+
+        public IActionResult YourAction()
+        {
+            // ... other code in your action
+            return View();
+        }
+
 
         [HttpPost]
         public async Task<ApiResult> Add(Agency req)

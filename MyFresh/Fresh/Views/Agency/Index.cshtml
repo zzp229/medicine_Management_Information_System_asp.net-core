@@ -3,6 +3,7 @@
 *@
 @{
     ViewData["Title"] = "经办人信息";
+    string displayStyle = ViewBag.ShouldShowButton ? "display: inline-block;" : "display: none;";
 }
 <div class="col-md-12">
     <div class="row">
@@ -17,7 +18,8 @@
                     </div>
                     <div class="col-fluid">
                         <button class="btn btn-primary btn-sm" id="Search">查询</button>
-                        <button class="btn btn-secondary btn-sm" id="Clear">清空</button>
+                        @* 测试隐藏清空按钮 *@
+                        <button class="btn btn-secondary btn-sm" id="Clear" style="@displayStyle">清空</button>
                         <button class="btn btn-success btn-sm" onclick="Add()">新增</button>
                         <button class="btn btn-danger btn-sm" id="Del">删除</button>
                     </div>

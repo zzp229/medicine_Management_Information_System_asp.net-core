@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5dZDld+zjzG5D+9zpT4bKEo4j3MXp34O2/Hxhgv6+j6H8fVP0hlC5QaqlbXDCQyMcvcZ2pd9pjjynuOLybSzEw==",
+  "dgSpecHash": "XV6Ar74JNGTrWIPPA0PgbTwt5QeM0m11bDiXpJK/H7P1FVa0nLv3CsZOcBr+jZAZ7p/1vyOH2pYOWu9y2UEJ3w==",
   "success": true,
-  "projectFilePath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\Fresh.csproj",
+  "projectFilePath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\Fresh.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13556\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
     "C:\\Users\\13556\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

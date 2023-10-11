@@ -4752,11 +4752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\Fresh.csproj",
+      "projectUniqueName": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\Fresh.csproj",
       "projectName": "Fresh",
-      "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\Fresh.csproj",
+      "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\Fresh.csproj",
       "packagesPath": "C:\\Users\\13556\\.nuget\\packages\\",
-      "outputPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Fresh\\obj\\",
+      "outputPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Fresh\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\c\\app\\Visual Studio\\tool\\NuGetPackages"
@@ -4777,14 +4777,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Interface\\Interface.csproj": {
-              "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Interface\\Interface.csproj"
+            "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Interface\\Interface.csproj": {
+              "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Interface\\Interface.csproj"
             },
-            "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\Model.csproj": {
-              "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Model\\Model.csproj"
+            "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Model\\Model.csproj": {
+              "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Model\\Model.csproj"
             },
-            "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Service\\Service.csproj": {
-              "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Service\\Service.csproj"
+            "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Service\\Service.csproj": {
+              "projectPath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Service\\Service.csproj"
             }
           }
         }

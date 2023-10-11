@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B6MpaN54zpJDCpXMWWH2LrYthVdIqHvZIS2z1kkxbYxeNXrzAhm9HwRwgr93uQ6cndaWL+K78gSroNsF9KNWYw==",
+  "dgSpecHash": "Z/GLhHJAo6s2FUnhqToLOBoMSO0Vm5N01zfzxMAWOsQRK+wk3X5NQkQzG23NG6B6qe98LcQKtrwfVKJ9n1qeig==",
   "success": true,
-  "projectFilePath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\可以验证登录\\Service\\Service.csproj",
+  "projectFilePath": "D:\\desktop\\tmpgit\\medicine_Management_Information_System_asp.net-core\\MyFresh\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13556\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\13556\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

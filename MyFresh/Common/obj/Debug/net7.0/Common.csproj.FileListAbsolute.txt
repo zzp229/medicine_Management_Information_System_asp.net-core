@@ -34,3 +34,15 @@ D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\可以验�
 D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\可以验证登录\Common\obj\Debug\net7.0\refint\Common.dll
 D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\可以验证登录\Common\obj\Debug\net7.0\Common.pdb
 D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\可以验证登录\Common\obj\Debug\net7.0\ref\Common.dll
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\bin\Debug\net7.0\Common.deps.json
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\bin\Debug\net7.0\Common.dll
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\bin\Debug\net7.0\Common.pdb
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\Common.dll
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\refint\Common.dll
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\Common.pdb
+D:\desktop\tmpgit\medicine_Management_Information_System_asp.net-core\MyFresh\Common\obj\Debug\net7.0\ref\Common.dll
